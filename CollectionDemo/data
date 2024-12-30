@@ -1,0 +1,11 @@
+Wrapper class:
+	byte			Byte
+	boolean			Boolean
+	char			Character
+	short			Short
+	int				Integer
+	long			Long
+	float			Float
+	double			Double
+	
+	String and All Wrapper classes are final

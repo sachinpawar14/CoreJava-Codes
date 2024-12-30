@@ -1,0 +1,14 @@
+Serialization:
+	Persisting(saving) the state of an Object.
+	
+	Create object FileOutputStream
+	Create object of ObjectOutputStream
+	chain then
+	call writeObject() 
+	
+	DeSerialization:
+	
+	Create object FileInputStream
+	Create object of ObjectInputStream
+	chain then
+	call readObject() 
